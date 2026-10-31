@@ -7,7 +7,7 @@ ORIGIN="origin"
 # market leader GitHub has switched its default branch name, but not all devs have accepted
 MAIN="main"
 LOCAL_REPO_PATH="/code/$(id -u -n)/"  # e.g. "/code/sparshsah/"
-EXCL_REPO_NAMES=("data-dump-folder/" "some-legacy-lib/" "another-legacy-lib/")
+EXCL_REPO_NAMES=("some-legacy-lib/" "another-legacy-lib/" "data-dump-folder/")
 I_AM_LEET_HACKERMAN=false
 
 # directory names end in "/"
