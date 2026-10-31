@@ -1,4 +1,4 @@
-# foggyDEMO
+# SpARX-Demo
 
 author: [@sparshsah](https://github.com/sparshsah)
 
