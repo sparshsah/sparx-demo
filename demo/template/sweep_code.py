@@ -3,8 +3,10 @@ Example script to programatically sweep through a codebase and modify code.
 Like a more flexible version of Find-and-Replace.
 I'm sure there's some clever way to accomplish the same in one line with a regex.
 
-This example looks for all Enum's (including both enum.Enum and special_enum.SpecialEnum),
-and marks them as enum.unique (unless they are already marked).
+This example looks for all `Enum`s
+(including both `enum.Enum` and `special_enum.SpecialEnum`),
+and marks them as `enum.unique`
+(unless they are already marked).
 
 For example:
 
