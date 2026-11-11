@@ -126,7 +126,7 @@ with some intrinsic stumbling blocks
     persuasive evidence that the borrower's quality is
     _worse_ than you initially thought),
     or that the very act of repeat-borrowing is associated with credit-seeking,
-    which may itself be associated with financial weakness or degradation.
+    which may itself be associated with financial weakness or deterioration.
 - **The Auction-Winner's Curse**:
   Say you offer an APR and the applicant accepts.
   You immediately experience buyer's remorse.
