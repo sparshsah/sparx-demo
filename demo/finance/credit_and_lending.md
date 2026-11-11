@@ -84,6 +84,22 @@ with some intrinsic stumbling blocks
   (and thereby cutting out most of the "randomly unlucky" ones),
   you mechanically force your loss estimate to be biased too low
   on the population you select.
+  - Imagine everyone has a true PD of 10%.
+    Your data and training methodology are
+    of course susceptible to noise,
+    so they produce an imperfect model
+    which says that half the people are 0%
+    and half the people are 20%.
+    On average over the whole population,
+    your model is indeed calibrated
+    (because its errors balance out).
+    And its AUC/Gini are neutral,
+    so there's no concern about overfitting.
+    Yet, if you use its scores to
+    offer loans only to the "model 0%" people,
+    you will be badly surprised
+    (in the unpleasant direction)
+    when realized losses come in at 10%.
 - **Regression to the Mean**:
   A similar idea applies to repeat borrowers.
   Say you decide to approve _everyone_
