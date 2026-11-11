@@ -30,7 +30,7 @@ with some intrinsic stumbling blocks
   offer takeup will not be uniformly random
   if you don't charge market-reasonable APRs.
   To wit: Say you accurately and precisely predict
-  ex-ante PD, LGD, and EAD for "FICO 700" borrowers to be low.
+  ex-ante PD, LGD, and EAD for "FICO 825" borrowers to be low.
   You cannot increase your returns simply by jacking up APRs there!
   - Why? Because:
     - Truly "safe" borrowers are likely to be recognized as such
