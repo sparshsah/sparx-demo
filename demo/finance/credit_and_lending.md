@@ -91,7 +91,7 @@ with some intrinsic stumbling blocks
     which says that half the people are 0%
     and half the people are 20%.
     On average over the whole population,
-    your model looks indeed calibrated
+    your model looks indeed unbiased
     because its errors balance out
     (although in this oversimplified example,
     it would be irresponsible not to catch
@@ -99,7 +99,9 @@ with some intrinsic stumbling blocks
     i.e. measure the routine check whether,
     empirically, `Pr[D = 1 | model_p = p] = p`).
     And its AUC/Gini are neutral,
-    so there's no obvious alarm bell about overfitting.
+    so there's no obvious alarm bell about overfitting in particular
+    (although, again, in real life,
+    nobody would deploy a coin-flip model to PROD).
     Yet, if you use its scores to
     offer loans only to the "model 0%" people,
     you will be badly surprised
