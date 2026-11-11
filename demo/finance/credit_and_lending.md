@@ -75,13 +75,15 @@ with some intrinsic stumbling blocks
   When you score ex-ante risk,
   the most extremely safest-scoring applicants
   are precisely the ones most likely to
-  have gotten "lucky"
+  have gotten "randomly lucky"
   (been the beneficiaries of favorable noise
   in the modeling/scoring process)
-  rather than to be truly safe.
+  rather than to be truly that safe.
   Thus, even if your loss estimate is unbiased over the whole population,
-  by approving only the safest-scoring applicants,
-  you mechanically force your loss estimate to be biased too low.
+  by approving only the safest-scoring applicants
+  (and thereby cutting out most of the "randomly unlucky" ones),
+  you mechanically force your loss estimate to be biased too low
+  on the population you select.
 - **Regression to the Mean**:
   A similar idea applies to repeat borrowers.
   Say you decide to approve _everyone_
