@@ -10,7 +10,8 @@ with some intrinsic stumbling blocks
 Pitfalls range
 from data and risk modeling
 to underwriting and approval/offer policies
-to pricing/terms and competition.
+to competitive pricing/terms
+to adverse selection.
 
 - **Macro**:
   There's basically never enough representative and reliable data from rare regimes
@@ -87,6 +88,21 @@ to pricing/terms and competition.
     _worse_ than you initially thought),
     or that the very act of repeat-borrowing is associated with credit-seeking,
     which may itself be associated with financial weakness or deterioration.
+- **The Auction-Winner's Curse**:
+  Say you offer an APR and the applicant accepts.
+  You immediately experience buyer's remorse.
+  "Gee", you wonder, "how risky was he after all,
+  that nobody else was willing to offer him a better APR?".
+  Importantly, this is a _separate mechanism_
+  from the adverse-selection effect mentioned below!
+  Even if there's only one borrower
+  and he's guaranteed to accept the loan,
+  the fact that you won the auction
+  (offered the lowest APR)
+  suggests that you had the most favorable view of his riskiness,
+  which (especially against very smart competitors
+  whose main weakness is noisy data or modeling)
+  may raise concerns about whether your view was mistaken.
 - **Price Sensitivity, Demand Elasticity, and Adverse Selection**:
   This is the "market for lemons" problem:
   Regardless of what you approve or aim to approve,
@@ -134,21 +150,6 @@ to pricing/terms and competition.
   (at the cost of burning their relationship with you altogether)
   so they can focus on lenders
   where they don't yet have derogatory marks.
-- **The Auction-Winner's Curse**:
-  Say you offer an APR and the applicant accepts.
-  You immediately experience buyer's remorse.
-  "Gee", you wonder, "how risky was he after all,
-  that nobody else was willing to offer him a better APR?".
-  Importantly, this is a _separate mechanism_
-  from the adverse-selection effect mentioned above!
-  Even if there's only one borrower
-  and he's guaranteed to accept the loan,
-  the fact that you won the auction
-  (offered the lowest APR)
-  suggests that you had the most favorable view of his riskiness,
-  which (especially against very smart competitors
-  whose main weakness is noisy data or modeling)
-  may raise concerns about whether your view was mistaken.
 
 ## Hope
 
