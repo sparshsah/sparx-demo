@@ -8,7 +8,7 @@ with some intrinsic stumbling blocks
 ## Stumbling Blocks
 
 Pitfalls range
-from data and modeling
+from data and risk modeling
 to underwriting and approval/offer policies
 to pricing/terms and competition.
 
