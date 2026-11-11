@@ -11,16 +11,16 @@ with some intrinsic stumbling blocks
   There's basically never enough representative and reliable data from rare regimes
   to actually empirically distinguish the relative suitability of things like
   logit vs probit regression models for real-world problems.
-  First of all, rare regimes are, well, rare.
-  Second of all, when they do happen:
-  - Everybody starts behaving differently
-    (including lenders who stop originating low-FICO loans,
-    whose default rates therefore become unobservable).
-    - This points at a broader stumbling block, too:
-      All historical performance data comes from a highly-selected population,
-      i.e. only the loans somebody else or you were willing to fund at the time.
-  - Data quality suffers as people are busy trying to work out deals
-    rather than maintain excellent ETLs and tables.
+  - First of all, rare regimes are, well, rare.
+  - Second of all, when they do happen:
+    - Everybody starts behaving differently
+      (including lenders who stop originating low-FICO loans,
+      whose default rates therefore become unobservable).
+      - This points at a broader stumbling block, too:
+        All historical performance data comes from a highly-selected population,
+        i.e. only the loans somebody else or you were willing to fund at the time.
+    - Data quality suffers as people are busy trying to work out deals
+      rather than maintain excellent ETLs and tables.
 
 ## Hope
 
