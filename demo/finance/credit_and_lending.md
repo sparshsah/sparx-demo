@@ -53,6 +53,24 @@ with some intrinsic stumbling blocks
   (at the cost of burning their relationship with you altogether)
   so they can focus on lenders
   where they don't yet have derogatory marks.
+- **The Optimizer's Curse**:
+  When you score ex-ante risk,
+  the most extremely safest-scoring applicants
+  are precisely the ones most likely to
+  have gotten "lucky"
+  (been the beneficiaries of favorable noise
+  in the modeling/scoring process)
+  rather than to be truly safe.
+  Thus, even if your loss estimate is unbiased over the whole population,
+  by approving only the safest-scoring applicants,
+  you mechanically force your loss estimate to be biased too low.
+- **Regression to the Mean**:
+  A similar idea applies to repeat borrowers.
+  Say you decide to approve _everyone_
+  then re-approve only the very best-performing borrowers
+  from the first round when they reapply.
+  Those are precisely the borrowers most likely to have
+  gotten lucky by random chance.
 
 ## Hope
 
