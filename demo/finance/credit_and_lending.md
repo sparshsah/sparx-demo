@@ -17,8 +17,11 @@ with some intrinsic stumbling blocks
       (including lenders who stop originating low-FICO loans,
       whose default rates therefore become unobservable).
       - This points at a broader stumbling block, too:
-        All historical performance data comes from a highly-selected population,
+        All historical performance data comes from a highly-filtered/selected population,
         i.e. only the loans somebody else or you were willing to fund at the time.
+        You might scan historical tapes from past crises and conclude that
+        FICO is not predictive of defaults during stress periods,
+        simply because nobody was dumb enough to fund the low-FICO loans at the time.
     - Data quality suffers as people are busy trying to work out deals
       rather than maintain excellent ETLs and tables.
 
