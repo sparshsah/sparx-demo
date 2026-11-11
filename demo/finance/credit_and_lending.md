@@ -99,7 +99,7 @@ with some intrinsic stumbling blocks
     i.e. measure the routine check whether,
     empirically, `Pr[D = 1 | model_p = p] = p`).
     And its AUC/Gini are neutral,
-    so there's no concern about overfitting.
+    so there's no obvious alarm bell about overfitting.
     Yet, if you use its scores to
     offer loans only to the "model 0%" people,
     you will be badly surprised
