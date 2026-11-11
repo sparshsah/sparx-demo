@@ -24,7 +24,7 @@ with some intrinsic stumbling blocks
         simply because nobody was dumb enough to fund the low-FICO loans at the time.
     - Data quality suffers as people are busy trying to work out deals
       rather than maintain excellent ETLs and tables.
-- **Adverse Selection**:
+- **Price Sensitivity, Demand Elasticity, and Adverse Selection**:
   This is the "market for lemons" problem:
   Regardless of what you approve or aim to approve,
   offer takeup will not be uniformly random
@@ -32,17 +32,33 @@ with some intrinsic stumbling blocks
   To wit: Say you accurately and precisely predict
   ex-ante PD, LGD, and EAD for "FICO 700" borrowers to be low.
   You cannot increase your returns simply by jacking up APRs there!
-  Why? Because:
-  - Truly "safe" borrowers are likely to be recognized as such
-    and offered lowered APRs on the market.
-    Most people do _some_ amount of "shopping around",
-    so the truly safe borrowers will simply opt for those better offers,
-    leaving you with only risky borrowers.
-  - Any remaining diligent borrowers with high intent to repay
-    will be scared off by the interest burden.
-    That leaves only risky borrowers
-    who could not eke a single good offer out of the market
-    but who don't care because they don't plan to repay anyway.
+  - Why? Because:
+    - Truly "safe" borrowers are likely to be recognized as such
+      and offered lower APRs on the market.
+      Most people do _some_ amount of "shopping around",
+      so the truly safe borrowers will simply opt for those better offers,
+      leaving you with only risky borrowers.
+    - Any remaining diligent borrowers with high intent to repay
+      will be scared off by the interest burden.
+      That leaves only risky borrowers
+      who could not eke a single good offer out of the market
+      but who don't care because they don't plan to repay anyway.
+  - The result: Borrowers who accept high-vs-market APRs tend to be the ones who
+    either (a) are truly very risky and so that's basically the best deal they see,
+    or (b) aren't planning to repay and so don't care.
+    If you deem a borrower safe, offer a high-vs-market APR, and observe it taken,
+    that should change your posterior estimate about that borrower's true riskiness.
+  - The simplistic sliding policy: Within a given true risk band and term:
+    - If you offer 0% APRs,
+      everyone will flock to you
+      (including a lot of peaches who would otherwise
+      never have participated in the market at all);
+    - If you offer market-like APRs,
+      you can probably expect
+      a market-like mix of peaches and lemons;
+    - If you offer 100% APRs,
+      you are setting yourself up to get
+      100% lemons.
 - **PDR (Price-Dependent Risk)**:
   Even a borrower with high intent to repay
   who nevertheless accepts a high-interest loan
