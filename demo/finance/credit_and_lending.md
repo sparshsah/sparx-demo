@@ -132,6 +132,16 @@ with some intrinsic stumbling blocks
   You immediately experience buyer's remorse.
   "Gee", you wonder, "how risky was he after all,
   that nobody else was willing to offer him a better APR?".
+  Importantly, this is a _separate mechanism_
+  from the adverse-selection effect mentioned above!
+  Even if there's only one borrower
+  and he's guaranteed to accept the loan,
+  the fact that you won the auction
+  (offered the lowest APR)
+  suggests that you had the most favorable view of his riskiness,
+  which (in some settings, especially against very smart competitors
+  whose main weakness is noisy data or modeling)
+  may raise concerns about whether your view was mistaken.
 
 ## Hope
 
