@@ -146,7 +146,7 @@ to pricing/terms and competition.
   the fact that you won the auction
   (offered the lowest APR)
   suggests that you had the most favorable view of his riskiness,
-  which (in some settings, especially against very smart competitors
+  which (especially against very smart competitors
   whose main weakness is noisy data or modeling)
   may raise concerns about whether your view was mistaken.
 
