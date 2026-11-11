@@ -7,6 +7,18 @@ with some intrinsic stumbling blocks
 
 ## Stumbling Blocks
 
+- **Macro**:
+  There's basically never enough representative and reliable data from rare regimes
+  to actually empirically distinguish the relative suitability of things like
+  logit vs probit regression models for real-world problems.
+  First of all, rare regimes are, well, rare.
+  Second of all, when they do happen:
+  - Everybody starts behaving differently
+    (including lenders who stop originating low-FICO loans,
+    whose default rates therefore become unobservable);
+  - Data quality suffers as people are busy trying to work out deals
+    rather than maintain excellent ETLs and tables.
+
 ## Hope
 
 There is hope!
