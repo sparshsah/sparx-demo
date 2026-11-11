@@ -8,6 +8,13 @@ I think of ML as being broken down into three stages:
 2. Model
 3. Optimization/Action
 
+The final action triggers fresh data which feeds back into the loop,
+giving rise to what people now universally call the "data/AI flywheel".
+(Sidenote: I've succumbed to this term, but I kinda hate it.
+A physical flywheel is basically a battery that doesn't leak energy too fast.
+"Doesn't leak energy too fast" doesn't mean
+"reinforces" or "compounds" or "magically creates its own fresh energy".)
+
 ## Data
 
 To start, you synthesize (from a theoretical ground-truth DGP (data-generating process)) or collect (from the real world) and organize data.
