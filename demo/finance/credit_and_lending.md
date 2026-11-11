@@ -91,8 +91,13 @@ with some intrinsic stumbling blocks
     which says that half the people are 0%
     and half the people are 20%.
     On average over the whole population,
-    your model is indeed calibrated
-    (because its errors balance out).
+    your model looks indeed calibrated
+    because its errors balance out
+    (although in this oversimplified example,
+    it would be irresponsible not to catch
+    _conditional_ miscalibration,
+    i.e. measure the routine check whether,
+    empirically, `Pr[D = 1 | model_p = p] = p`).
     And its AUC/Gini are neutral,
     so there's no concern about overfitting.
     Yet, if you use its scores to
