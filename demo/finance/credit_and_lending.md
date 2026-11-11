@@ -105,6 +105,12 @@ with some intrinsic stumbling blocks
     you will be badly surprised
     (in the unpleasant direction)
     when realized losses come in at 10%.
+    - Methodological note:
+      I have found in the past that,
+      not always, but sometimes,
+      a bit of shrinkage to the mean
+      (or to some magical constant background default rate)
+      helps with this.
 - **Regression to the Mean**:
   A similar idea applies to repeat borrowers.
   Say you decide to approve _everyone_
