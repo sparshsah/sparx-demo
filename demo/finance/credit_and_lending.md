@@ -10,7 +10,7 @@ with some intrinsic stumbling blocks
 Pitfalls range
 from data and modeling
 to underwriting and approval/offer policies
-to pricing and competition.
+to pricing/terms and competition.
 
 - **Macro**:
   There's basically never enough representative and reliable data from rare regimes
