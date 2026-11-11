@@ -74,7 +74,7 @@ with some intrinsic stumbling blocks
 - **The Optimizer's Curse**:
   When you score ex-ante risk,
   the most extremely safest-scoring applicants
-  are precisely the ones most likely to
+  are disproportionately likely to
   have gotten "randomly lucky"
   (been the beneficiaries of favorable noise
   in the modeling/scoring process)
