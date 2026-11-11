@@ -59,8 +59,8 @@ with some intrinsic stumbling blocks
       you can probably expect
       a market-like mix of peaches and lemons;
     - If you offer 100% APRs,
-      you are setting yourself up to get
-      100% lemons.
+      you may be setting yourself up for
+      a disappointing haul of 100% lemons.
 - **PDR (Price-Dependent Risk)**:
   Even a borrower with high intent to repay
   who nevertheless accepts a high-interest loan
