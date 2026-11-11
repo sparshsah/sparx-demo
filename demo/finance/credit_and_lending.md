@@ -24,6 +24,24 @@ with some intrinsic stumbling blocks
         simply because nobody was dumb enough to fund the low-FICO loans at the time.
     - Data quality suffers as people are busy trying to work out deals
       rather than maintain excellent ETLs and tables.
+- **Adverse Selection**:
+  This is the "market for lemons" problem:
+  Regardless of what you approve or aim to approve,
+  offer takeup will not be uniformly random.
+  To wit: Say you accurately and precisely predict
+  ex-ante PD, LGD, and EAD for "FICO 700" borrowers to be low.
+  You cannot increase your returns simply by jacking up APRs there!
+  Why? Because:
+  - Truly "safe" borrowers are likely to be recognized as such
+    and offered lowered APRs on the market.
+    Most people do _some_ amount of "shopping around",
+    so the truly safe borrowers will simply opt for those better offers,
+    leaving you with only risky borrowers.
+  - Any remaining diligent borrowers with high intent to repay
+    will be scared off by the interest burden.
+    That leaves only risky borrowers
+    who could not eke a single good offer out of the market
+    but who don't care because they don't plan to repay anyway.
 
 ## Hope
 
