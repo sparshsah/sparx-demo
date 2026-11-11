@@ -15,7 +15,10 @@ with some intrinsic stumbling blocks
   Second of all, when they do happen:
   - Everybody starts behaving differently
     (including lenders who stop originating low-FICO loans,
-    whose default rates therefore become unobservable);
+    whose default rates therefore become unobservable).
+    - This points at a broader stumbling block, too:
+      All historical performance data comes from a highly-selected population,
+      i.e. only the loans somebody else or you were willing to fund at the time.
   - Data quality suffers as people are busy trying to work out deals
     rather than maintain excellent ETLs and tables.
 
