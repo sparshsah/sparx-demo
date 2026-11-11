@@ -71,6 +71,11 @@ with some intrinsic stumbling blocks
   from the first round when they reapply.
   Those are precisely the borrowers most likely to have
   gotten lucky by random chance.
+- **The Auction-Winner's Curse**:
+  Say you offer an APR and the applicant accepts.
+  You immediately experience buyer's remorse.
+  "Gee", you wonder, "how risky was he after all,
+  that nobody else was willing to offer him a better APR?".
 
 ## Hope
 
