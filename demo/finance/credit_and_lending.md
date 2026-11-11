@@ -46,7 +46,7 @@ with some intrinsic stumbling blocks
   - The result: Borrowers who accept high-vs-market APRs tend to be the ones who
     either (a) are truly very risky and so that's basically the best deal they see,
     or (b) aren't planning to repay and so don't care.
-    If you deem a borrower safe, offer a high-vs-market APR, and observe it taken,
+    If you deem a borrower safe, offer a high-vs-market APR anyway, then observe it taken,
     that should change your posterior estimate about that borrower's true riskiness.
   - The simplistic sliding policy: Within a given true risk band and term:
     - If you offer 0% APRs,
