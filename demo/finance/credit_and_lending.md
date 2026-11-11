@@ -118,6 +118,15 @@ with some intrinsic stumbling blocks
   from the first round when they reapply.
   Those are precisely the borrowers most likely to have
   gotten lucky by random chance.
+  - This doesn't even account for the fact that,
+    defaults being relatively uncommon,
+    observing _no default_ may not be very persuasive evidence
+    that the borrower's quality is any better than you initially thought
+    (although, asymmetrically, observing _a default_ may be
+    persuasive evidence that the borrower's quality is
+    _worse_ than you initially thought),
+    or that the very act of repeat-borrowing is associated with credit-seeking,
+    which may itself be associated with financial weakness or degradation.
 - **The Auction-Winner's Curse**:
   Say you offer an APR and the applicant accepts.
   You immediately experience buyer's remorse.
