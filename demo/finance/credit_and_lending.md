@@ -27,7 +27,8 @@ with some intrinsic stumbling blocks
 - **Adverse Selection**:
   This is the "market for lemons" problem:
   Regardless of what you approve or aim to approve,
-  offer takeup will not be uniformly random.
+  offer takeup will not be uniformly random
+  if you don't charge market-reasonable APRs.
   To wit: Say you accurately and precisely predict
   ex-ante PD, LGD, and EAD for "FICO 700" borrowers to be low.
   You cannot increase your returns simply by jacking up APRs there!
@@ -42,6 +43,16 @@ with some intrinsic stumbling blocks
     That leaves only risky borrowers
     who could not eke a single good offer out of the market
     but who don't care because they don't plan to repay anyway.
+- **PDR (Price-Dependent Risk)**:
+  Even a borrower with high intent to repay
+  who nevertheless accepts a high-interest loan
+  may be "knocked off the tightrope"
+  by the high monthly payment itself.
+  And once they've faltered on repaying your loan,
+  they may prefer to charge off completely
+  (at the cost of burning their relationship with you altogether)
+  so they can focus on lenders
+  where they don't yet have derogatory marks.
 
 ## Hope
 
