@@ -110,7 +110,7 @@ and hence part ways.
 But it's also possible that
 the big guys
 are initially enthusiastic
-but eventually get a sinking gut feel
+then eventually get a sinking gut feel
 as they observe the precarity
 of picking up pennies
 in front of a steamroller.
