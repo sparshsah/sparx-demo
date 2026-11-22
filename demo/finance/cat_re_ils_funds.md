@@ -27,10 +27,14 @@
 ## Offerings
 
 - Stone Ridge High Yield Reinsurance Risk Premium mutual fund
-  - Institutional shares: `SHRIX`
-  - Individual shares: `SHRMX`
+  - Institutional/I shares: `SHRIX`
+  - Individual/Y shares: `SHRMX`
 - Stone Ridge Reinsurance Risk Premium interval fund
   - Common shares: `SRRIX`
+- Victory Pioneer Cat Bond mutual fund
+  - Institutional/Y shares: `CBYYX`
+  - Individual/A shares: `ACBAX`
+  - Retirement/R6 shares: `ACBKX`
 - Brookmont King Ridge Capital Catastrophic Bond ETF
   - `TXSE:ILS`
 - HANetf King Ridge Capital Cat Bond UCITS ETF
