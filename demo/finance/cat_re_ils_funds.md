@@ -28,7 +28,7 @@
 
 - Stone Ridge High Yield Reinsurance Risk Premium mutual fund
   - Institutional/I shares: `SHRIX`
-  - Individual/Y shares: `SHRMX`
+  - Individual/M shares: `SHRMX`
 - Stone Ridge Reinsurance Risk Premium interval fund
   - Common shares: `SRRIX`
 - Victory Pioneer Cat Bond mutual fund
