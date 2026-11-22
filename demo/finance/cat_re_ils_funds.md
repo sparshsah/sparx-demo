@@ -58,7 +58,7 @@
     - yet, shuttered the unit within 5 years (around 2015)
       - without a clear impetus
       - citing only a corporate-safe excuse
-        about operational complexity and capacity.
+        about operational complexity and strategy capacity.
 - Allianz/PIMCO
   - Tale:
     - launched their own ILS platform around 2019
@@ -68,7 +68,7 @@
     - and yet, *also* shuttered their unit within 5 years (around 2023)
       - *also* without a clear impetus
       - *also* citing only a corporate-safe excuse
-        about operational complexity and capacity.
+        about operational complexity and strategy capacity.
   - Notes:
     - The PIMCO ILS team went on to found King Ridge Capital,
       subadviser on the `TXSE:ILS` ETF from above.
