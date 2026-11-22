@@ -27,8 +27,10 @@
 ## Offerings
 
 - Stone Ridge High Yield Reinsurance Risk Premium mutual fund
-  - Institutional Shares: `SHRIX`
-  - Individual Shares: `SHRMX`
+  - Institutional shares: `SHRIX`
+  - Individual shares: `SHRMX`
+- Stone Ridge Reinsurance Risk Premium interval fund
+  - Common shares: `SRRIX`
 - Brookmont King Ridge Capital Catastrophic Bond ETF
   - `TXSE:ILS`
 - HANetf King Ridge Capital Cat Bond UCITS ETF
@@ -72,7 +74,7 @@
 
 ### Echoes of Volmageddon and the XIV Implosion?
 
-- Markel CATCo Reinsurance Opportunities closed-end European fund
+- Markel CATCo Reinsurance Opportunities European closed-end fund
   - Ordinary shares: `LON:CAT`
   - Class C shares: `LON:CATC`
 - Outcome:
