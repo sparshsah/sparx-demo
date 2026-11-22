@@ -35,6 +35,8 @@
   - Institutional/Y shares: `CBYYX`
   - Individual/A shares: `ACBAX`
   - Retirement/R6 shares: `ACBKX`
+- Victory Pioneer ILS interval fund
+  - `XILSX`
 - Embassy Ambassador mutual fund
   - Institutional/I: `EMPIX`
   - Individual/S: `EMPSX`
