@@ -8,7 +8,8 @@
   too correlated
   with global
   growth/equity/credit or inflation
-  cycles/crises.
+  crises
+  that play out more cyclically.
   - Of course,
     if an asteroid impact
     triggered a megavolcano,
