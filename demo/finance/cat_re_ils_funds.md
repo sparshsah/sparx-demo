@@ -26,6 +26,9 @@
 
 ## Offerings
 
+- Stone Ridge High Yield Reinsurance Risk Premium mutual fund
+  - Institutional Shares: `SHRIX`
+  - Individual Shares: `SHRMX`
 - Brookmont King Ridge Capital Catastrophic Bond ETF
   - `TXSE:ILS`
 - HANetf King Ridge Capital Cat Bond UCITS ETF
