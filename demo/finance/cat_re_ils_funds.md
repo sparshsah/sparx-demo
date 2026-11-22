@@ -69,6 +69,13 @@
 - Markel CATCo Reinsurance Opportunities closed-end European fund
   - Ordinary shares: `LON:CAT`
   - Class C shares: `LON:CATC`
+- Outcome:
+  - Suffered deeply
+  - Entered run-off in 2019
+    - Trapped capital
+    - Side pockets
+    - The whole shebang
+  - Fully wound down and delisted by 2024.
 
 ### If you really think this is a good idea...
 
