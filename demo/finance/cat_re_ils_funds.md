@@ -18,10 +18,10 @@ could be truly diversifying?
   - etc
 - Investment Vehicle:
   - '40 Act Investment Funds
-- Target audience:
+- Target Audience:
   - Taxable US Individual Investors
 
-(work in progress)
+(Work in Progress)
 
 ## Offerings
 
