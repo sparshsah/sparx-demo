@@ -3,10 +3,23 @@
 ## Motivating Idea
 
 - E.g. Local natural disasters
-  aren't necessarily
+  can strike abruptly,
+  but aren't necessarily
   too correlated
   with global
-  growth/equity/credit or inflation crises.
+  growth/equity/credit or inflation
+  cycles/crises.
+  - Of course,
+    if an asteroid impact
+    triggered a megavolcano,
+    blotting out the sun
+    and plunging the Earth
+    into a super ice age
+    that set off a worldwide
+    mass extinction event,
+    that would probably show up
+    in the economic numbers.
+    But you get my point.
 - So, getting paid a premium/coupon
   to bear the risk
   could be truly diversifying?
