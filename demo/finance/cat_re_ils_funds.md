@@ -38,7 +38,7 @@
 - Target Audience:
   - Taxable US Individual Investors
 
-## Offerings
+## Sample Offerings
 
 - Stone Ridge High Yield Reinsurance Risk Premium mutual fund
   - Institutional/I shares: `SHRIX`
