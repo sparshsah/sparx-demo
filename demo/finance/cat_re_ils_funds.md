@@ -81,6 +81,28 @@
         Allianz Insurance's own life/annuity business
         (so, again, *not* catastrophe/disaster).
 
+It's possible that
+giant asset managers
+whose major value prop
+is synergies/economies of scale
+from highly-marketable funds
+running on shared firmwide
+data/trading/reporting infrastructure
+simply aren't effective hosts
+for niche/opaque/finnicky investment strategies,
+so both sides come to realize
+they gain nothing from the tie-up
+and hence part ways.
+But it's also possible that
+the big guys
+are initially enthusiastic
+but eventually get a sinking gut feel
+as they observe the precarity
+of picking up pennies
+in front of a steamroller.
+Which of these scenarios
+is closer to reality?
+
 ### Echoes of Volmageddon and the XIV Implosion?
 
 - Markel CATCo Reinsurance Opportunities European closed-end fund
