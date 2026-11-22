@@ -64,7 +64,7 @@
         Allianz Insurance's own life/annuity business
         (so, again, *not* catastrophe/disaster).
 
-### Echoes of Volmageddon and XIV?
+### Echoes of Volmageddon and the XIV Implosion?
 
 - Markel CATCo Reinsurance Opportunities closed-end European fund
   - Ordinary shares: `LON:CAT`
