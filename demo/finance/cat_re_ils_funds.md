@@ -1,4 +1,4 @@
-# Cat/Re/ILS Funds (WIP)
+# Cat/Re/ILS Funds: A True Diversifier? (WIP)
 
 "Cat Bond" (Catastrophe Bond),
 Quota Share,
@@ -6,13 +6,24 @@ Quota Share,
 and
 ILS (Insurance-Linked Security)
 '40 Act investment funds
-for taxable US individual investors
-(work in progress).
+for taxable US individual investors:
+A true diversifier?
+(work in progress)
+
+The idea is that
+e.g. local natural disasters
+aren't necessarily
+too correlated
+with global
+growth/equity/credit or inflation risk.
 
 ## Offerings
 
 
+
 ## Cautionary Tales
+
+### What do AQR and PIMCO know that we don't?
 
 - AQR launched AQR Re in this space around 2011,
   hired a bunch of industry veterans,
@@ -30,7 +41,7 @@ for taxable US individual investors
   also without a clear impetus,
   also citing only a corporate-safe excuse
   about operational complexity and capacity.
-  - Note: The PIMCO ILS team later went on to found King Ridge Capital,
+  - Note: The PIMCO ILS team went on to found King Ridge Capital,
     subadviser on the `TXSE:ILS` ETF from above.
   - Note: Around 2024, Allianz/PIMCO relaunched
     two separate fresh reinsurance ventures.
@@ -40,6 +51,9 @@ for taxable US individual investors
     - Sconset Re, where the cedant/sponsor (original insurer) is
       Allianz Insurance's own life/annuity business
       (so, again, *not* catastrophe/disaster).
+
+### Echoes of Volmageddon and XIV?
+
 - Markel CATCo Reinsurance Opportunities closed-end European fund
   - Ordinary shares: `LON:CAT`
   - Class C shares: `LON:CATC`
