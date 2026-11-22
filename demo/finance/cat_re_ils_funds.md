@@ -6,10 +6,10 @@ aren't necessarily
 too correlated
 with global
 growth/equity/credit or inflation crises.
+So, getting paid a premium/coupon
+to bear the risk
+could be truly diversifying?
 
-**Result**: True diversification
-for taxable US individual investors
-via
 - Asset Class:
   - "Cat Bond" (Catastrophe Bond)
   - Quota Share
@@ -17,9 +17,9 @@ via
   - ILS (Insurance-Linked Security)
   - etc
 - Investment Vehicle:
-  - '40 Act investment funds
-
-?
+  - '40 Act Investment Funds
+- Target audience:
+  - Taxable US Individual Investors
 
 (work in progress)
 
