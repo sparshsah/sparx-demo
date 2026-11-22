@@ -26,7 +26,10 @@
 
 ## Offerings
 
-
+- Brookmont King Ridge Capital Catastrophic Bond ETF
+  - `TXSE:ILS`
+- HANetf King Ridge Capital Cat Bond UCITS ETF
+  - `LON:CATB`
 
 ## Cautionary Tales
 
