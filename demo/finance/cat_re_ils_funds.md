@@ -1,7 +1,7 @@
 # True Diversification via Cat/Re/ILS Funds? (WIP)
 
 **Motivating Idea**:
-e.g. local natural disasters
+E.g. Local natural disasters
 aren't necessarily
 too correlated
 with global
