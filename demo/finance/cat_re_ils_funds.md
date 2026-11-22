@@ -1,14 +1,17 @@
 # True Diversification via Cat/Re/ILS Funds? (WIP)
 
-**Motivating Idea**:
-E.g. Local natural disasters
-aren't necessarily
-too correlated
-with global
-growth/equity/credit or inflation crises.
-So, getting paid a premium/coupon
-to bear the risk
-could be truly diversifying?
+## Motivating Idea
+
+- E.g. Local natural disasters
+  aren't necessarily
+  too correlated
+  with global
+  growth/equity/credit or inflation crises.
+- So, getting paid a premium/coupon
+  to bear the risk
+  could be truly diversifying?
+
+## Setup
 
 - Asset Class:
   - "Cat Bond" (Catastrophe Bond)
@@ -20,8 +23,6 @@ could be truly diversifying?
   - '40 Act Investment Funds
 - Target Audience:
   - Taxable US Individual Investors
-
-(Work in Progress)
 
 ## Offerings
 
