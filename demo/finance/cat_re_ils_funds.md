@@ -1,21 +1,27 @@
-# Cat/Re/ILS Funds: A True Diversifier? (WIP)
+# True Diversification via Cat/Re/ILS Funds? (WIP)
 
-"Cat Bond" (Catastrophe Bond),
-Quota Share,
-"Re" (Retrocession/Reinsurance),
-and
-ILS (Insurance-Linked Security)
-'40 Act investment funds
-for taxable US individual investors:
-A true diversifier?
-(work in progress)
-
-The idea is that
+**Motivating Idea**:
 e.g. local natural disasters
 aren't necessarily
 too correlated
 with global
 growth/equity/credit or inflation risk.
+
+**Result**: True diversification
+for taxable US individual investors
+via
+- Asset Class:
+  - "Cat Bond" (Catastrophe Bond)
+  - Quota Share
+  - "Re" (Retrocession/Reinsurance)
+  - ILS (Insurance-Linked Security)
+  - etc
+- Investment Vehicle:
+  - '40 Act investment funds
+
+?
+
+(work in progress)
 
 ## Offerings
 
