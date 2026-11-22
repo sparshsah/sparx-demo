@@ -5,7 +5,7 @@ E.g. Local natural disasters
 aren't necessarily
 too correlated
 with global
-growth/equity/credit or inflation risk.
+growth/equity/credit or inflation crises.
 
 **Result**: True diversification
 for taxable US individual investors
