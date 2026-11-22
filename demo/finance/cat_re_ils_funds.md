@@ -35,6 +35,9 @@
   - Institutional/Y shares: `CBYYX`
   - Individual/A shares: `ACBAX`
   - Retirement/R6 shares: `ACBKX`
+- Embassy Ambassador mutual fund
+  - Institutional/I: `EMPIX`
+  - Individual/S: `EMPSX`
 - Brookmont King Ridge Capital Catastrophic Bond ETF
   - `TXSE:ILS`
 - HANetf King Ridge Capital Cat Bond UCITS ETF
