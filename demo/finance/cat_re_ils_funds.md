@@ -30,6 +30,8 @@ for taxable US individual investors
   also without a clear impetus,
   also citing only a corporate-safe excuse
   about operational complexity and capacity.
+  - Note: The PIMCO ILS team later went on to found King Ridge Capital,
+    subadviser on the `TXSE:ILS` ETF from above.
 - Markel CATCo Reinsurance Opportunities closed-end European fund
   - Ordinary shares: `LON:CAT`
   - Class C shares: `LON:CATC`
