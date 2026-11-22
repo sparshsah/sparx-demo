@@ -69,3 +69,7 @@
 - Markel CATCo Reinsurance Opportunities closed-end European fund
   - Ordinary shares: `LON:CAT`
   - Class C shares: `LON:CATC`
+
+### If you really think this is a good idea...
+
+... why not just buy-and-hold shares of a publicly-traded direct insurer?
