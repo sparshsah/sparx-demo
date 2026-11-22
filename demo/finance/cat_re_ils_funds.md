@@ -32,6 +32,14 @@ for taxable US individual investors
   about operational complexity and capacity.
   - Note: The PIMCO ILS team later went on to found King Ridge Capital,
     subadviser on the `TXSE:ILS` ETF from above.
+  - Note: Around 2024, Allianz/PIMCO relaunched
+    two separate fresh reinsurance ventures.
+    - Pando Re, where the cedant/sponsor (original insurer) is
+      Aspen Insurance's casualty/liability business
+      (so, in particular, *not* dealing with catastrophe/disaster).
+    - Sconset Re, where the cedant/sponsor (original insurer) is
+      Allianz Insurance's own life/annuity business
+      (so, again, *not* catastrophe/disaster).
 - Markel CATCo Reinsurance Opportunities closed-end European fund
   - Ordinary shares: `LON:CAT`
   - Class C shares: `LON:CATC`
