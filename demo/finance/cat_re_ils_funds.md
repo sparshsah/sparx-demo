@@ -88,7 +88,7 @@
   - Class C shares: `LON:CATC`
 - Outcome:
   - Suffered deeply
-  - Entered run-off in 2019
+  - Entered runoff in 2019
     - Trapped capital
     - Side pockets
     - The whole shebang
