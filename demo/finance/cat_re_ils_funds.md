@@ -23,7 +23,7 @@
     But you get my point.
 - So, getting paid a premium/coupon
   to bear the risk
-  could be truly diversifying?
+  could be truly financially diversifying?
 
 ## Setup
 
