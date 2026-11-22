@@ -96,4 +96,6 @@
 
 ### If you really think this is a good idea...
 
-... why not just buy-and-hold shares of a publicly-traded direct insurer?
+... why not just buy-and-hold shares of a publicly-traded direct insurer or reinsurer
+(or at least some firm whose main business is reinsurance)?
+E.g. RenRe (`NYSE:RNR`), Arch (`NASDAQ:ACGL`), Everest (`NYSE:EG`), Palomar (`NASDAQ:PLMR`).
