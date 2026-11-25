@@ -92,16 +92,38 @@ Imagine a hypothetical niche asset class where:
     (which must be [fought](https://www.aqr.com/Insights/Research/Journal-Article/Fight-the-Fed-Model)),
   - plain-old animal spirits.
 
-In this hypothetical niche asset class,
-managers have no choice but to assign "fair valuation" marks
-every once in a while,
-and investors have no choice but to accept them.
+In this hypothetical niche asset class:
+- Managers have no choice but to assign "fair valuation" marks
+  with finger-in-the-air nudges every once in a while,
+  and investors have no choice but to accept them.
+  - Even if the manager would _like_ to be
+    as radically open and straightforward as possible,
+    the underlying information is latent and hidden.
+    Without much to go off of most of the time,
+    fair-value updates will
+    tend to look deceptively stable.
+  - The fact that the manager can't afford to waste time
+    running a fresh valuation every day means that
+    a lot of random stuff that happens between updates
+    but then course-corrects or mean-reverts before the next update
+    won't show up in the final numbers that go out.
+  - Realistically, the manager _also_ has an obvious _incentive_
+    to put a thumb on the scale to make struck NAV look even _more_ stable,
+    because a boring straight line upward may be more palatable to investor appetites
+    than a bumpy/spiky/wiggly line that ends up in the same place.
+    - "Independent" third-party valuation agents can't save you.
+      First of all, they are themselves often non-experts
+      who largely defer to the manager's view,
+      with some nominal modicum of adjustment/validation on top of it.
+      Moreover, even if they _could_ furnish a genuine independent view,
+      they know that persistently making the fund look bad
+      will get them fired by the manager.
+- But the underlying economic return distribution remains highly non-Normal,
+  and even "nonparametric" quantile-based risk measures like VaR
+  can't save you because empirical estimates are noisy and unreliable.
 - Observed daily share-price return volatility is
   a terrible indicator of valuation uncertainty
   or stress-loss frequency/magnitude.
-- The underlying economic return distribution is highly non-Normal,
-  and even "nonparametric" quantile-based risk measures like VaR
-  can't save you because empirical estimates are noisy and unreliable.
 
 ## Cautionary Tales
 
