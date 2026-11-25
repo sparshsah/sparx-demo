@@ -72,11 +72,11 @@ Imagine a hypothetical niche asset class where:
 - Professional skills and coverage are sparse
   and information edges (advantageous asymmetry)
   are jealously guarded.
-  Information lives, circulates, and propagates
-  among small, remote, isolated individual tidepools.
-  Fresh information escapes containment irregularly via
-  lethargic trickles or diffuse clouds,
-  with only rare and sporadic (but earthshaking) floods.
+  - Information lives, circulates, and propagates
+    among small, remote, isolated individual tidepools.
+  - Fresh information escapes containment irregularly via
+    lethargic trickles or diffuse clouds,
+    with only rare and sporadic (but earthshaking) floods.
 - There isn't much "dumb money" interest,
   but even the sophisticated third-party
   buyers and sellers of managed fund shares
@@ -85,12 +85,12 @@ Imagine a hypothetical niche asset class where:
   which are themselves highly illiquid.
   Everyday changes in observed share transaction prices
   mainly reflect changes in demand due to things like
-  flows and wealth effects,
-  risk-on-vs-risk-off posturing/dynamics,
-  alternatives and opportunity costs,
-  the "Fed model"
-  (which must be [fought](https://www.aqr.com/Insights/Research/Journal-Article/Fight-the-Fed-Model)),
-  and plain-old animal spirits.
+  - flows and wealth effects,
+  - risk-on-vs-risk-off posturing/dynamics,
+  - alternatives and opportunity costs,
+  - the "Fed model"
+    (which must be [fought](https://www.aqr.com/Insights/Research/Journal-Article/Fight-the-Fed-Model)),
+  - plain-old animal spirits.
 
 In this hypothetical niche asset class,
 managers have no choice but to assign "fair valuation" marks
