@@ -121,7 +121,7 @@ In this hypothetical niche asset class:
 - But the underlying economic return distribution remains highly non-Normal,
   and even "nonparametric" quantile-based risk measures like VaR
   can't save you because empirical estimates are noisy and unreliable.
-- The one thing we _can_ say for sure is that
+- One thing we _can_ say for sure is that
   observed daily share-price return volatility
   is not a good indicator of
   either valuation uncertainty
