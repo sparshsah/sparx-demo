@@ -80,11 +80,11 @@ Imagine a hypothetical niche asset class where:
 - There isn't much "dumb money" interest,
   but even the sophisticated third-party
   buyers and sellers of managed fund shares
-  have limited ability to form
+  have limited expertise/ability to form/shift
   independent views on the underlying assets,
   which are themselves highly illiquid.
-  Everyday changes in observed share transaction prices
-  mainly reflect changes in demand due to things like
+  Hence, day-to-day changes in observed share transaction prices
+  mainly just reflect changes in demand due to auxiliary things like
   - flows and wealth effects,
   - risk-on-vs-risk-off posturing/dynamics,
   - alternatives and opportunity costs,
@@ -96,12 +96,12 @@ In this hypothetical niche asset class,
 managers have no choice but to assign "fair valuation" marks
 every once in a while,
 and investors have no choice but to accept them.
-Daily share-price return volatility is therefore
-a terrible indicator of valuation uncertainty
-or stress-loss frequency/magnitude.
-The return distribution is highly non-Normal,
-and even "nonparametric" quantile-based risk measures like VaR
-can't save you because empirical estimates are noisy and unreliable.
+- Observed daily share-price return volatility is
+  a terrible indicator of valuation uncertainty
+  or stress-loss frequency/magnitude.
+- The underlying economic return distribution is highly non-Normal,
+  and even "nonparametric" quantile-based risk measures like VaR
+  can't save you because empirical estimates are noisy and unreliable.
 
 ## Cautionary Tales
 
