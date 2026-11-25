@@ -69,7 +69,7 @@ automatically implies that its short- or even medium-term marks
 are substantively transparent and/or market-based.
 
 Imagine a hypothetical niche asset class where:
-- Professional skills and coverage are sparse
+- Professional expertise and coverage are sparse
   and information edges (advantageous asymmetry)
   are jealously guarded.
   - Information lives, circulates, and propagates
@@ -80,7 +80,7 @@ Imagine a hypothetical niche asset class where:
 - There isn't much "dumb money" interest,
   but even the sophisticated third-party
   buyers and sellers of managed fund shares
-  have limited expertise/ability to form/shift
+  have limited ability to form/shift
   independent views on the underlying assets,
   which are themselves highly illiquid.
   Hence, day-to-day changes in observed share transaction prices
