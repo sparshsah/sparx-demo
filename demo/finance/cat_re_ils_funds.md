@@ -111,7 +111,7 @@ In this hypothetical niche asset class:
     to put a thumb on the scale to make struck NAV look even _more_ stable,
     because a boring straight line upward may be more palatable to investor appetites
     than a bumpy/spiky/wiggly line that ends up in the same place.
-    - "Independent" third-party valuation agents can't save you.
+    - Officially named "independent" third-party valuation agents can't save you.
       First of all, they are themselves often non-experts
       who largely defer to the manager's view,
       with some nominal modicum of adjustment/validation on top of it.
