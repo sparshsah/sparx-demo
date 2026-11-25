@@ -59,6 +59,50 @@
 - HANetf King Ridge Capital Cat Bond UCITS ETF
   - `LON:CATB`
 
+## Marks and "Volatility"
+
+There's nothing necessarily illegitimate about this, per se,
+and I can't even guarantee that this applies here,
+but I strenuously admonish the reader against assuming
+that a fund being visibly registered/listed/traded/liquid
+automatically implies that its short- or even medium-term marks
+are substantively transparent and/or market-based.
+
+Imagine a hypothetical niche asset class where:
+- Professional skills and coverage are sparse
+  and information edges (advantageous asymmetry)
+  are jealously guarded.
+  Information lives, circulates, and propagates
+  among small, remote, isolated individual tidepools.
+  Fresh information escapes containment irregularly via
+  lethargic trickles or diffuse clouds,
+  with only rare and sporadic (but earthshaking) floods.
+- There isn't much "dumb money" interest,
+  but even the sophisticated third-party
+  buyers and sellers of managed fund shares
+  have limited ability to form
+  independent views on the underlying assets,
+  which are themselves highly illiquid.
+  Everyday changes in observed share transaction prices
+  mainly reflect changes in demand due to things like
+  flows and wealth effects,
+  risk-on-vs-risk-off posturing/dynamics,
+  alternatives and opportunity costs,
+  the "Fed model"
+  (which must be [fought](https://www.aqr.com/Insights/Research/Journal-Article/Fight-the-Fed-Model)),
+  and plain-old animal spirits.
+
+In this hypothetical niche asset class,
+managers have no choice but to assign "fair valuation" marks
+every once in a while,
+and investors have no choice but to accept them.
+Daily share-price return volatility is therefore
+a terrible indicator of valuation uncertainty
+or stress-loss frequency/magnitude.
+The return distribution is highly non-Normal,
+and even "nonparametric" quantile-based risk measures like VaR
+can't save you because empirical estimates are noisy and unreliable.
+
 ## Cautionary Tales
 
 ### What do AQR and PIMCO know that we don't?
