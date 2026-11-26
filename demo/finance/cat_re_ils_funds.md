@@ -118,14 +118,14 @@ In this hypothetical niche asset class:
       Moreover, even if they _could_ furnish a genuine independent view,
       they know that persistently making the fund look bad
       will get them fired by the manager.
-- But the underlying economic return distribution remains highly non-Normal,
-  and even "nonparametric" quantile-based risk measures like VaR
-  can't save you because empirical estimates are noisy and unreliable.
-- One thing we _can_ say for sure is that
-  observed daily share-price return volatility
-  is not a good indicator of
-  either valuation uncertainty
-  or stress-loss frequency/magnitude.
+- Yet, the underlying economic return distribution remains highly non-Normal.
+  - Even "nonparametric" quantile-based risk measures like VaR
+    can't save you because empirical estimates are noisy and unreliable.
+  - One thing we _can_ say for sure is that
+    observed daily share-price return volatility
+    is not a good indicator of
+    either valuation uncertainty
+    or stress-loss frequency/magnitude.
 
 ## Cautionary Tales
 
