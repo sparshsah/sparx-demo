@@ -23,7 +23,8 @@
     But you get my point.
 - So, getting paid a premium/coupon
   to bear the risk
-  could be truly financially diversifying?
+  could be a truly financially diversifying
+  return stream?
 
 ## Setup
 
@@ -37,6 +38,15 @@
   - '40 Act Investment Funds
 - Target Audience:
   - Taxable US Individual Investors
+    - In particular,
+      those willing to allocate meaningfully
+      to compensated and diversifying
+      underlying economic risks,
+      rather than relegating strategies
+      to side buckets
+      based on the exotic-sounding names
+      of the instruments they use
+      to express their bets.
 
 ## Sample Offerings
 
