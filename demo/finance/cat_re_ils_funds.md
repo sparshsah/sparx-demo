@@ -129,10 +129,21 @@ In this hypothetical niche asset class:
       they know that persistently making the fund look bad
       will get them fired by the manager.
 - Yet, the underlying economic return distribution remains highly non-Normal.
-  - Even "nonparametric" quantile-based risk measures like VaR
-    can't save you because empirical estimates are noisy and unreliable.
+  - Even "nonparametric" quantile-based risk measures
+    like VaR (value at risk)
+    have limited helpfulness here
+    because empirical estimates
+    will struggle to represent or predict
+    the characteristics of the
+    extreme tail events you care about.
+    - The event you care about here is a catastrophe,
+      a rare but inevitable and impactful
+      random realization.
+      Recent observed samples will tend to
+      contain exactly zero of these,
+      precisely because they are rare.
   - One thing we _can_ say for sure is that
-    observed daily share-price return volatility
+    annualized-from-daily observed share-price return vol
     is not a good indicator of
     either valuation uncertainty
     or stress-loss frequency/magnitude.
