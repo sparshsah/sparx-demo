@@ -258,11 +258,13 @@ is closer to reality?
 ### Echoes of Volmageddon and the XIV Implosion?
 
 - Markel CATCo Reinsurance Opportunities European closed-end fund
+  - Launched: 2010
   - Ordinary shares: `LON:CAT`
   - Class C shares: `LON:CATC`
-- Outcome:
-  - Suffered deeply
-  - Entered runoff in 2019
+- Outcome: 
+  - Hit by random back-to-back natural disasters
+    (hurricanes, wildfires, etc) in 2017-2018
+  - Entered runoff by 2019
     - Trapped capital
     - Side pockets
     - The whole shebang
