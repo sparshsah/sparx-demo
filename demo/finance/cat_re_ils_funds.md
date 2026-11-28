@@ -60,11 +60,13 @@
   - Ticker
     - Common shares: `SRRIX`
 - Victory Pioneer Cat Bond mutual fund
+  - Inception Date: 2023-01-27
   - Ticker
     - Institutional/Y shares: `CBYYX`
     - Individual/A shares: `ACBAX`
     - Retirement/R6 shares: `ACBKX`
 - Victory Pioneer ILS interval fund
+  - Inception Date: 2014-12-17
   - Ticker
     - `XILSX`
 - Embassy Ambassador mutual fund
