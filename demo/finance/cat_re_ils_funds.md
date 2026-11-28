@@ -26,9 +26,10 @@
     - From the bottom up,
       deteriorating macroeconomic conditions
       could erode candidate property values
+      and discourage new construction activity
       (which could decrease insurance---and hence *re*insurance---demand,
       forcing you to either drop customers or drop premiums)
-      and/or the owners' ability to pay contractual premiums
+      and/or erode the owners' ability to pay contractual premiums
       (which could intensify counterparty risk).
     - From the top down,
       systemic negative economic sentiment
