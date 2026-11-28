@@ -51,23 +51,30 @@
 ## Sample Offerings
 
 - Stone Ridge High Yield Reinsurance Risk Premium mutual fund
-  - Institutional/I shares: `SHRIX`
-  - Individual/M shares: `SHRMX`
+  - Ticker
+    - Institutional/I shares: `SHRIX`
+    - Individual/M shares: `SHRMX`
 - Stone Ridge Reinsurance Risk Premium interval fund
-  - Common shares: `SRRIX`
+  - Ticker
+    - Common shares: `SRRIX`
 - Victory Pioneer Cat Bond mutual fund
-  - Institutional/Y shares: `CBYYX`
-  - Individual/A shares: `ACBAX`
-  - Retirement/R6 shares: `ACBKX`
+  - Ticker
+    - Institutional/Y shares: `CBYYX`
+    - Individual/A shares: `ACBAX`
+    - Retirement/R6 shares: `ACBKX`
 - Victory Pioneer ILS interval fund
-  - `XILSX`
+  - Ticker
+    - `XILSX`
 - Embassy Ambassador mutual fund
-  - Institutional/I: `EMPIX`
-  - Individual/S: `EMPSX`
+  - Ticker
+    - Institutional/I shares: `EMPIX`
+    - Individual/S shares: `EMPSX`
 - Brookmont King Ridge Capital Catastrophic Bond ETF
-  - `TXSE:ILS`
+  - Ticker
+    - `TXSE:ILS`
 - HANetf King Ridge Capital Cat Bond UCITS ETF
-  - `LON:CATB`
+  - Ticker
+    - `LON:CATB`
 
 ## Important Aside/Disclaimer: Marks and "Volatility"
 
