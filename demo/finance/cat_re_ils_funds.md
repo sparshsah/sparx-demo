@@ -39,7 +39,10 @@
       people shift their focus to paying for tomorrow's groceries
       and become more risk-averse...
       In this malaise, your risky investment contracts lose market resale value
-      despite no increase in the underlying likelihood or destructive potential of a hurricane.
+      despite no increase in the
+      underlying likelihood
+      or physical destructiveness
+      of a hurricane.
 
 ## Setup
 
