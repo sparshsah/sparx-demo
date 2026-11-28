@@ -264,6 +264,12 @@ is closer to reality?
 - Outcome: 
   - Hit by random back-to-back natural disasters
     (hurricanes, wildfires, etc) in 2017-2018
+    - Sometimes the full reckoning of damages due
+      takes a while as people pick through the wreckage
+      and it isn't complete and final until much after
+      the original catastrophe itself...
+      The loss development/verification period
+      could push the indemnity into an extension period
   - Entered runoff by 2019
     - Trapped capital
     - Side pockets
