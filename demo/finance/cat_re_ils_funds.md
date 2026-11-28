@@ -12,42 +12,44 @@
   that play out more cyclically.
 - So, getting paid a premium/coupon to bear the risk
   could be a truly financially diversifying return stream?
-- Potential Counterarguments:
-  - If an asteroid impact
-    triggered a megavolcano,
-    blotting out the sun
-    and plunging the Earth
-    into a super ice age
-    that set off a worldwide
-    mass extinction event,
-    that would probably show up
-    in the economic numbers.
-  - The influence could flow the other way, too:
-    - From the bottom up,
-      deteriorating macroeconomic conditions
-      could
-      - erode candidate property values
-        and discourage new construction activity
-        - which could decrease insurance---and hence *re*insurance---demand
-        - forcing you to either drop customers or drop premiums
-      - and/or erode the owners' ability to pay contractual premiums
-        - which could intensify counterparty risk.
-    - From the top down,
-      systemic negative economic sentiment
-      could weaken risk-on appetite/tolerance,
-      leading to a universal "repricing of risk"
-      or "increase in discount rates".
-      - That is,
-        people shift their focus
-        to paying for tomorrow's groceries
-        and become more risk-averse...
-      - In this malaise,
-        your risky investment contracts
-        lose market resale value
-        despite no increase in the
-        underlying likelihood
-        or physical destructiveness
-        of a hurricane.
+
+### Potential Counterarguments
+
+- If an asteroid impact
+  triggered a megavolcano,
+  blotting out the sun
+  and plunging the Earth
+  into a super ice age
+  that set off a worldwide
+  mass extinction event,
+  that would probably show up
+  in the economic numbers.
+- The influence could flow the other way, too:
+  - From the bottom up,
+    deteriorating macroeconomic conditions
+    could
+    - erode candidate property values
+      and discourage new construction activity
+      - which could decrease insurance---and hence *re*insurance---demand
+      - forcing you to either drop customers or drop premiums
+    - and/or erode the owners' ability to pay contractual premiums
+      - which could intensify counterparty risk.
+  - From the top down,
+    systemic negative economic sentiment
+    could weaken risk-on appetite/tolerance,
+    leading to a universal "repricing of risk"
+    or "increase in discount rates".
+    - That is,
+      people shift their focus
+      to paying for tomorrow's groceries
+      and become more risk-averse...
+    - In this malaise,
+      your risky investment contracts
+      lose market resale value
+      despite no increase in the
+      underlying likelihood
+      or physical destructiveness
+      of a hurricane.
 
 ## Setup
 
@@ -71,7 +73,7 @@
       of the instruments they use
       to express their bets.
 
-## Sample Offerings
+### Sample Offerings
 
 - Stone Ridge High Yield Reinsurance Risk Premium mutual fund
   - Inception Date: 2013-02-01
