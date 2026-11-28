@@ -21,10 +21,26 @@
     that would probably show up
     in the economic numbers.
     But you get my point.
-- So, getting paid a premium/coupon
-  to bear the risk
-  could be a truly financially diversifying
-  return stream?
+  - The influence could flow the other way, too:
+    - From the bottom up,
+      deteriorating macroeconomic conditions
+      could erode candidate property values
+      (which could decrease insurance---and hence *re*insurance---demand)
+      and/or the owners' ability to pay contractual premiums
+      (which could intensify counterparty risk).
+    - From the top down,
+      systemic negative economic sentiment
+      could weaken risk-on appetite/tolerance,
+      leading to a universal "repricing of risk"
+      or "increase in discount rates".
+      That is,
+      people shift their focus to paying for tomorrow's groceries
+      and become more risk-averse,
+      which means your risky investment contracts lose market resale value
+      even with no increase in the likelihood or destructive potential of a hurricane.
+- So, with all that in mind,
+  getting paid a premium/coupon to bear the risk
+  could hold up as a truly financially diversifying return stream?
 
 ## Setup
 
