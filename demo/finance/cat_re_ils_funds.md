@@ -10,8 +10,10 @@
   growth/equity/credit or inflation
   crises
   that play out more cyclically.
-  - Of course,
-    if an asteroid impact
+- So, getting paid a premium/coupon to bear the risk
+  could be a truly financially diversifying return stream?
+- Potential Counterarguments:
+  - If an asteroid impact
     triggered a megavolcano,
     blotting out the sun
     and plunging the Earth
@@ -20,12 +22,12 @@
     mass extinction event,
     that would probably show up
     in the economic numbers.
-    But you get my point.
   - The influence could flow the other way, too:
     - From the bottom up,
       deteriorating macroeconomic conditions
       could erode candidate property values
-      (which could decrease insurance---and hence *re*insurance---demand)
+      (which could decrease insurance---and hence *re*insurance---demand,
+      forcing you to either drop customers or drop premiums)
       and/or the owners' ability to pay contractual premiums
       (which could intensify counterparty risk).
     - From the top down,
@@ -38,9 +40,6 @@
       and become more risk-averse,
       which means your risky investment contracts lose market resale value
       even with no increase in the likelihood or destructive potential of a hurricane.
-- So, with all that in mind,
-  getting paid a premium/coupon to bear the risk
-  could hold up as a truly financially diversifying return stream?
 
 ## Setup
 
