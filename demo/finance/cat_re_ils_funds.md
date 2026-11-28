@@ -37,9 +37,9 @@
       or "increase in discount rates".
       That is,
       people shift their focus to paying for tomorrow's groceries
-      and become more risk-averse,
-      which means your risky investment contracts lose market resale value
-      even with no increase in the likelihood or destructive potential of a hurricane.
+      and become more risk-averse...
+      In this malaise, your risky investment contracts lose market resale value
+      despite no increase in the underlying likelihood or destructive potential of a hurricane.
 
 ## Setup
 
