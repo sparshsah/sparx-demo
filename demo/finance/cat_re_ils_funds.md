@@ -70,6 +70,7 @@
   - Ticker
     - `XILSX`
 - Embassy Ambassador mutual fund
+  - Inception Date: 2021-12-29
   - Ticker
     - Institutional/I shares: `EMPIX`
     - Individual/S shares: `EMPSX`
