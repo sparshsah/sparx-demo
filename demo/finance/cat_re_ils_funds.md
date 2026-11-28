@@ -25,25 +25,29 @@
   - The influence could flow the other way, too:
     - From the bottom up,
       deteriorating macroeconomic conditions
-      could erode candidate property values
-      and discourage new construction activity
-      (which could decrease insurance---and hence *re*insurance---demand,
-      forcing you to either drop customers or drop premiums)
-      and/or erode the owners' ability to pay contractual premiums
-      (which could intensify counterparty risk).
+      could
+      - erode candidate property values
+        and discourage new construction activity
+        - which could decrease insurance---and hence *re*insurance---demand,
+          forcing you to either drop customers or drop premiums
+      - and/or erode the owners' ability to pay contractual premiums
+        - which could intensify counterparty risk.
     - From the top down,
       systemic negative economic sentiment
       could weaken risk-on appetite/tolerance,
       leading to a universal "repricing of risk"
       or "increase in discount rates".
-      That is,
-      people shift their focus to paying for tomorrow's groceries
-      and become more risk-averse...
-      In this malaise, your risky investment contracts lose market resale value
-      despite no increase in the
-      underlying likelihood
-      or physical destructiveness
-      of a hurricane.
+      - That is,
+        people shift their focus
+        to paying for tomorrow's groceries
+        and become more risk-averse...
+      - In this malaise,
+        your risky investment contracts
+        lose market resale value
+        despite no increase in the
+        underlying likelihood
+        or physical destructiveness
+        of a hurricane.
 
 ## Setup
 
