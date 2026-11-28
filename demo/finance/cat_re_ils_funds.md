@@ -283,11 +283,29 @@ buy-and-hold shares of a publicly-traded direct insurer or reinsurer
 (or at least some firm whose main business is reinsurance)?
 E.g. RenRe (`NYSE:RNR`), Arch (`NASDAQ:ACGL`), Everest (`NYSE:EG`), Palomar (`NASDAQ:PLMR`).
 
-In the simplest case,
-you find a listed stock for a company
-that underwrites then balance-sheets or warehouses these contracts
-(rather than originate-to-distribute,
-which essentially takes the economic risk off the balance sheet
-by reselling it as forward flow or ABS securitizations).
-A BDC-like PCV (business development company, permanent capital vehicle)
-acts economically very similar to a commingled private credit fund.
+- In the simplest case,
+  you find a listed stock for a company
+  that underwrites then balance-sheets or warehouses these contracts
+  (rather than originate-to-distribute,
+  which essentially takes the economic risk off the balance sheet
+  by reselling it as forward flow or ABS securitizations).
+  A BDC-like PCV (business development company, permanent capital vehicle)
+  can act economically very similar to a commingled private credit fund.
+
+- Now, real-world business structures
+  may legitimately introduce broader equity-market beta
+  through things like
+  unrelated revenue lines
+  (e.g. dental insurance)
+  or dependence on healthy M&A networks
+  to encourage good ratings from analysts
+  (who may have a lot of influence
+  over bids and offers people post).
+  So if that's the case
+  and it muddles or swamps
+  the clean economic exposure you're looking for,
+  then fine.
+  I'm just saying
+  it's worth considering
+  whether you can get your drink
+  through more standardized pipes.
