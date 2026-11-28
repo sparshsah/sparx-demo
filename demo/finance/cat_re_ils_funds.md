@@ -233,8 +233,16 @@ is closer to reality?
     - The whole shebang
   - Fully wound down and delisted by 2024.
 
-### If you really think this is a good idea...
+## Alternative Instruments
 
-... why not just buy-and-hold shares of a publicly-traded direct insurer or reinsurer
+If you really think this is a good idea, why not just
+buy-and-hold shares of a publicly-traded direct insurer or reinsurer
 (or at least some firm whose main business is reinsurance)?
 E.g. RenRe (`NYSE:RNR`), Arch (`NASDAQ:ACGL`), Everest (`NYSE:EG`), Palomar (`NASDAQ:PLMR`).
+
+In the simplest case,
+you find a listed stock for a company
+that underwrites then balance-sheets or warehouses these contracts
+(rather than originate-to-distribute,
+which essentially takes the economic risk off the balance sheet
+by reselling it as forward flow or ABS securitizations).
