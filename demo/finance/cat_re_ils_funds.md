@@ -118,7 +118,7 @@ and the macroeconomy.
   - Ticker
     - `LON:CATB`
 
-## Important Aside/Disclaimer: Marks and "Volatility"
+### Important Aside/Disclaimer: Marks and "Volatility"
 
 There's nothing necessarily illegitimate about this, per se,
 and I can't even guarantee that this applies here,
