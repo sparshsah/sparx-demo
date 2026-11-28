@@ -75,9 +75,11 @@
     - Institutional/I shares: `EMPIX`
     - Individual/S shares: `EMPSX`
 - Brookmont King Ridge Capital Catastrophic Bond ETF
+  - Inception Date: 2025-04-01
   - Ticker
     - `TXSE:ILS`
 - HANetf King Ridge Capital Cat Bond UCITS ETF
+  - Inception Date: 2025-12-02
   - Ticker
     - `LON:CATB`
 
