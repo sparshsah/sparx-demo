@@ -264,3 +264,5 @@ that underwrites then balance-sheets or warehouses these contracts
 (rather than originate-to-distribute,
 which essentially takes the economic risk off the balance sheet
 by reselling it as forward flow or ABS securitizations).
+A BDC-like PCV (business development company, permanent capital vehicle)
+acts economically very similar to a commingled private credit fund.
