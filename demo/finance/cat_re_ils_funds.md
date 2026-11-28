@@ -51,10 +51,12 @@
 ## Sample Offerings
 
 - Stone Ridge High Yield Reinsurance Risk Premium mutual fund
+  - Inception Date: 2013-02-01
   - Ticker
     - Institutional/I shares: `SHRIX`
     - Individual/M shares: `SHRMX`
 - Stone Ridge Reinsurance Risk Premium interval fund
+  - Inception Date: 2013-12-09
   - Ticker
     - Common shares: `SRRIX`
 - Victory Pioneer Cat Bond mutual fund
